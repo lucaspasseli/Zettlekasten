@@ -67,3 +67,26 @@ button {
 
 Single-File Components (SFCs) são uma característica fundamental do Vue.js e são recomendados para criar componentes Vue, especialmente se o seu projeto usa uma configuração de build (ferramentas de construção como Webpack ou Vite).
 
+## API styles
+
+Em Vue nós temos duas diferentes formas de de escrever nossos componentes, sendo uma delas a Options API e a outra a Composition API.
+
+### Options API
+
+é uma forma mais simples e alto nível de se escrever, com ela nós usaremos um objeto que terá as propriedades data, methods e mounted. Todas essas propriedades são expostas nas funções dentro de this, que será a instancia do componente
+
+### Composition API
+
+Com Componsition nós escreveremos nosso componente através de função do próprio Vue, utilizando SFC (Single File Component). Compostion API é uma forma mais declarativa e completa de se programar com Vue
+
+### Qual utilizar?
+
+A duas maneiras compartilham do mesmo fundamento e conhecimento de Vue, sendo a Options feita por cima da Composition.
+
+Options segue um paradigma mais voltado a OOP e é mais amigável.
+
+Composition é mais completa e tem seu paradigma voltado a reatividade. ë uma maneira mais livre de se lidar com Vue, apenas de mais complexa, ela nos permite mais flexibilidade, utilização de bons padrões e reutilização de código.
+
+Para código em produção, é recomendado que utilizemos Options caso não estivermos com nenhuma ferramenta de build, ou se pretendemos utilizar Vue de forma primaria e sem muita complexidade.
+
+Utilize Composition em produção quando quiser ter todo poder do Vue, principalmente com SFC

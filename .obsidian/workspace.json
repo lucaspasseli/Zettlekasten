@@ -30,9 +30,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da7379b6b6635dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c65f8f583e572b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configurando uma aplicação Vue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "768bd75309969b76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f5b1f86487c2a47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é Vue?.md",
+                "file": "Vue.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é Vue?.md",
+                "file": "Vue.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é Vue?.md"
+                "file": "Vue.js.md"
               }
             }
           }
@@ -158,10 +206,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2aa63dc7747a9b6d",
+  "active": "7f5b1f86487c2a47",
   "lastOpenFiles": [
-    "Vue.js.md",
     "O que é Vue?.md",
-    "Welcome.md"
+    "Untitled.md",
+    "Welcome.md",
+    "Configurando uma aplicação Vue.md",
+    "Vue.js.md",
+    "Estrutura de projeto Vue.md",
+    "Instalando e criando uma aplicação Vue.md",
+    "React tips.md"
   ]
 }

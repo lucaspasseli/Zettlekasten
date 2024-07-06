@@ -2,13 +2,12 @@
 ## Introdução ao Vue
 
 - [[O que é Vue?]]
-- **Instalação do Vue CLI**
-- **Criar o Primeiro Projeto Vue**
-- **Estrutura de um Projeto Vue**
+- [[Instalando e criando uma aplicação Vue]]
+- [[Configurando uma aplicação Vue]]
+- [[Estrutura de projeto Vue]]
 
 ## Conceitos Básicos do Vue.js
 
-- **Instância Vue**
 - **Template Syntax**
 - **Interpolação**
 - **Diretivas Básicas** (`v-bind`, `v-if`, `v-for`, `v-on`, `v-model`)
