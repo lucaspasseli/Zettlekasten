@@ -8,8 +8,8 @@
 
 ## Conceitos Básicos do Vue.js
 
-- **Template Syntax**
-- **Interpolação**
+- [[Vue Template Syntax]]
+- [[Vue Text Interpolation]]
 - **Diretivas Básicas** (`v-bind`, `v-if`, `v-for`, `v-on`, `v-model`)
 - **Eventos e Manipulação de Eventos**
 - **Classes e Estilos Dinâmicos**
