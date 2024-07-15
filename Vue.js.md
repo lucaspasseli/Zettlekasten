@@ -10,6 +10,7 @@
 
 - [[Vue Template Syntax]]
 - [[Vue Text Interpolation]]
+- [[Vue Computed Properties]]
 - **Diretivas Básicas** (`v-bind`, `v-if`, `v-for`, `v-on`, `v-model`)
 - **Eventos e Manipulação de Eventos**
 - **Classes e Estilos Dinâmicos**
